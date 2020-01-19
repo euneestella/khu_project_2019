@@ -6,7 +6,7 @@
 
 ## 자료
 
-유의미한 국제비교를 위해 ISSP(International Social Survey Programe)의 2011년도 주제모듈 건강(Health and Health Care)를 사용했습니다.
+유의미한 국제비교를 위해 ISSP(International Social Survey Programe)의 2011년도 주제모듈 건강과 의료제도(Health and Health Care)를 사용했습니다.
 
 * 한국  : [성균관대학교 서베이리서치센터](<http://kgss.skku.edu/?page_id=39>)
 * 핀란드 : [Finnish Social Science Data Archive](<https://services.fsd.uta.fi/catalogue/FSD2703?tab=variables&lang=en&study_language=en>)
