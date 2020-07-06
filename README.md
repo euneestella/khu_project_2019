@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Language-R-brightgreen?style=flat-square)
+
 # 소득에 따른 치료받지 못한 경험의 차이 연구
 
 이 연구는 2019학년도 1학기 경희대학교 꿈도전장학 '연구' 분야 지원을 받아 진행하였습니다.
